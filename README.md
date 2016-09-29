@@ -6,7 +6,7 @@ Last Name | First Name | husky id | github id
 ----------| -------| -------|---------
 Li    | Deyang  | li.dey  | diang1989
 Ramberger    |   Justin   | ramberger.j   |   jtr5395
-Wolek   |   Andrew    | wolek.a  |  awolek
 West    |   Richard   | r.west   |   rwest
+Wolek   |   Andrew    | wolek.a  |  awolek
 Zhang   |   Yujia     | zhang.yuji  | yujiazhang84
 
