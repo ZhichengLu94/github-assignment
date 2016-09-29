@@ -6,4 +6,4 @@ Last Name | First Name | husky id | github id
 ----------| -------| -------|---------
 Ramberger    |   Justin   | ramberger.j   |   jtr5395
 West    |   Richard   | r.west   |   rwest
-
+Li  | Deyang  | li.dey  | diang1989
