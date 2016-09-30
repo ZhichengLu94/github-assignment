@@ -7,6 +7,7 @@ Last Name | First Name | husky id | github id      | avatar
 Baugher  |   Drew      | baugher.a   | [dbaugher](https://github.com/dbaugher)     | ![dbaugher](https://github.com/dbaugher.png?size=40)
 Fulco    |   Cameron   | fulco.c     | [CFulco](https://github.com/CFulco)         | ![CFulco](https://github.com/CFulco.png?size=40)
 Janetos  |    David    | janetos.d   | [djanetos](https://github.com/djanetos)              | ![djanetos](https://github.com/djanetos.png?size=40)
+Laviano  |    Joe      | laviano.j   | [JoeLaviano](https://github.com/JoeLaviano)            | ![JoeLaviano](https://github.com/JoeLaviano.png?size=40)
 Li       | Deyang      | li.dey      | [diang1989](https://github.com/diang1989)          | ![diang1989](https://github.com/diang1989.png?size=40)
 Rambaud  | Gerard      | rambaud.g   | [GrrdRd5](https://github.com/GrrdRd5)      |![GrrdRd5](https://github.com/grrdrd5.png?size=40) 
 Ramberger | Justin     | ramberger.j |   [jtr5395](https://github.com/jtr5395)          | ![jtr5395](https://github.com/jtr5395.png?size=40)
