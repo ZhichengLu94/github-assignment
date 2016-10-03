@@ -5,6 +5,7 @@ People who have completed this assignment, in alphabetical order of last name:
 Last Name | First Name | husky id | github id      | avatar
 ----------| -----------|----------|----------------|---------
 Baugher  |   Drew      | baugher.a   | [dbaugher](https://github.com/dbaugher)     | ![dbaugher](https://github.com/dbaugher.png?size=40)
+Cain	 |   Jason     | cain.ja     | [cainja](https://github.com/cainja)	| ![cainja](https://github.com/cainja.png?size=40)  
 Fulco    |   Cameron   | fulco.c     | [CFulco](https://github.com/CFulco)         | ![CFulco](https://github.com/CFulco.png?size=40)
 Janetos  |    David    | janetos.d   | [djanetos](https://github.com/djanetos)              | ![djanetos](https://github.com/djanetos.png?size=40)
 Janvrin  |  Madison  | janvrin.m   | [RaeMa07JG](https://github.com/RaeMa07JG)           | ![RaeMa07JG](https://github.com/raema07jg.png?size=40)
