@@ -4,6 +4,7 @@ People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id | github id      | avatar
 ----------| -----------|----------|----------------|---------
+Abdelshafy| Kareem | abdelshafy.k| [KareemAbdelshafy](https://github.com/KareemAbdelshafy)| ![KareemAbdelshafy](https://github.com/KareemAbdelshafy.png?size=40)
 Baugher  |   Drew      | baugher.a   | [dbaugher](https://github.com/dbaugher)     | ![dbaugher](https://github.com/dbaugher.png?size=40)
 Cain	 |   Jason     | cain.ja     | [cainja](https://github.com/cainja)	| ![cainja](https://github.com/cainja.png?size=40)
 Fulco|   Cameron   | fulco.c     | [CFulco](https://github.com/CFulco)         | ![CFulco](https://github.com/CFulco.png?size=40)
