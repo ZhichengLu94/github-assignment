@@ -3,6 +3,7 @@
 People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id | github id      | avatar
+---------+------------+-----------+-----------+---------
 Sambamurthy|Rakesh|sambamurthy.r| [sambamurthyr] (https://github.com/sambamurthyr)| ![sambamurthyr] (https://github.com/sambamurthyr.png?size=40)
 Abdelshafy| Kareem | abdelshafy.k| [KareemAbdelshafy](https://github.com/KareemAbdelshafy)| ![KareemAbdelshafy](https://github.com/KareemAbdelshafy.png?size=40)
 Baugher  |   Drew      | baugher.a   | [dbaugher](https://github.com/dbaugher)     | ![dbaugher](https://github.com/dbaugher.png?size=40)
