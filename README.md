@@ -6,3 +6,4 @@ Last Name | First Name | husky id | github id      | avatar
 ---------|------------|-----------|-----------|---------
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 Sirumalla     |   Sai Krishna   | sirumalla.s      |   [skrsna](https://github.com/skrsna)        | ![skrnsa](https://github.com/skrsna.png?size=40)
+Song     |   Kaiyin   | song.kai     |   [asked1024](https://github.com/asked1024)        | ![asked1024](https://github.com/asked1024.png?size=40)    
