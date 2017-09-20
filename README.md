@@ -13,6 +13,4 @@ Sirumalla     |   Sai Krishna   | sirumalla.s      |   [skrsna](https://github.c
 Song     |   Kaiyin   | song.kai     |   [asked1024](https://github.com/asked1024)        | ![asked1024](https://github.com/asked1024.png?size=40)    
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
-Liu     |   Tuo   | liu.tu      |  [ltliutuo](https://github.com/ltliutuo)        | ![ltliutuo](https://github.com/ltliutuo.png?size=40)
-Liu     |   Tuo   | liu.tu      |  ltliutuo [ltliutuo](https://github.com/ltliutuo)        | ![ltliutuo](https://github.com/ltliutuo.png?size=40)
-Han      |   Edward   | han.edw   |  [hanedw](https://github.com/hanedw)   |     ![hanedw](https://avatars3.githubusercontent.com/u/32077144?v=4&s=460)
+Han      |   Edward   | han.edw   |  [hanedw](https://github.com/hanedw)   |     ![hanedw](https://avatars3.githubusercontent.com/u/32077144?v=4&s=40)
