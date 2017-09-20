@@ -12,6 +12,6 @@ Plajer     |   Maximilian   | plajer.m      |   [maxplajer](https://github.com/m
 Sirumalla     |   Sai Krishna   | sirumalla.s      |   [skrsna](https://github.com/skrsna)        | ![skrnsa](https://github.com/skrsna.png?size=40)
 Song     |   Kaiyin   | song.kai     |   [asked1024](https://github.com/asked1024)        | ![asked1024](https://github.com/asked1024.png?size=40)    
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
-West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
+Dalton     |   Cox   | cox.da      |   [dalcox](https://github.com/dalcox)        | ![dalcox](https://github.com/dalcox.png?size=40)
 Han      |   Edward   | han.edw   |  [hanedw](https://github.com/hanedw)   |     ![hanedw](https://avatars3.githubusercontent.com/u/32077144?v=4&s=40)
 Purohit    |   Abhir   | purohit.ab      |   [abhirkp](https://github.com/abhirkp)        | ![abhirkp](https://github.com/abhirkp.png?size=40)
