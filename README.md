@@ -4,7 +4,7 @@ People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id | github id      | avatar
 ---------|------------|-----------|-----------|---------
-Dalton     |   Cox   | cox.da      |   [dalcox](https://github.com/dalcox)        | ![dalcox](https://github.com/dalcox.png?size=40)
+Cox     |   Dalton   | cox.da      |   [dalcox](https://github.com/dalcox)        | ![dalcox](https://github.com/dalcox.png?size=40)
 Han      |   Edward   | han.edw   |  [hanedw](https://github.com/hanedw)   |     ![hanedw](https://avatars3.githubusercontent.com/u/32077144?v=4&s=40)
 Isakov     |   Artem   | isakov.a      |   [ayisakov](https://github.com/ayisakov)        | ![ayisakov](https://github.com/ayisakov.png?size=40)
 Kilgannon | James | kilgannon.j | [JamesKilgannon](https://github.com/JamesKilgannon) | ![JamesKilgannon](https://github.com/JamesKilgannon.png?size=40)
