@@ -9,7 +9,7 @@ Han      |   Edward   | han.edw   |  [hanedw](https://github.com/hanedw)   |    
 Isakov     |   Artem   | isakov.a      |   [ayisakov](https://github.com/ayisakov)        | ![ayisakov](https://github.com/ayisakov.png?size=40)
 Kilgannon | James | kilgannon.j | [JamesKilgannon](https://github.com/JamesKilgannon) | ![JamesKilgannon](https://github.com/JamesKilgannon.png?size=40)
 Liu     |   Tuo    | liu.tu      |  [ltliutuo](https://github.com/ltliutuo)        | ![ltliutuo](https://github.com/ltliutuo.png?size=40)
-Murali  |   Balamurugan | murali.b  | [Bala1395](https://github.com/Bala1395)    | ![Bala1395]
+Murali  |   Balamurugan | murali.b  | [Bala1395](https://github.com/Bala1395)    | ![Bala1395](https://github.com/Bala1395.png?size=40)
 Parvatker  | Abhijeet  | parvatker.a  | [agparvatker](https://github.com/agparvatker)     | ![agparvatker](https://github.com/agparvatker.png?size=40)
 Plajer     |   Maximilian   | plajer.m    |   [maxplajer](https://github.com/maxplajer)     | ![maxplajer](https://github.com/maxplajer.png?size=40)
 Purohit    |   Abhir   | purohit.ab      |   [abhirkp](https://github.com/abhirkp)        | ![abhirkp](https://github.com/abhirkp.png?size=40)
