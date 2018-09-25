@@ -12,7 +12,7 @@ Li | Yuan |     |     |
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
 Lu | Zhicheng |     |     |
-Mendoza Semidey | Eduardo |mendoza.ed|[emendoza13](https://github.com/emendoza13| ![emendoza13](https://avatars3.githubusercontent.com/u/43187510?v=4)
+Mendoza Semidey | Eduardo |mendoza.ed|[emendoza13](https://github.com/emendoza13)| ![emendoza13](https://github.com/emendoza13.png?size=40)
 Pearlman | Brendon |     |     |
 Rosenberg | David |     |     |
 Singh | Bhavya |     |     |
