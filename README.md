@@ -7,7 +7,7 @@ Last Name | First Name | husky id | github id      | avatar
 Finkelstein | Joshua |     |     |
 Fonseca Garcia | Javier |     |     |
 Jia | Zhen |     |     |
-Kim | Matthew |   kim.matth  | [mattakimv](https://github.com/mattakimv)  | ![mattakimv](https://github.com/mattakimv.png?size=40)
+Kim | Matthew Alejandro |   kim.matth  | [mattakimv](https://github.com/mattakimv)  | ![mattakimv](https://github.com/mattakimv.png?size=40)
 Li | Yuan |     |     |
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
