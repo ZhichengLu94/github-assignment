@@ -8,7 +8,7 @@ Finkelstein | Joshua |     |     |
 Fonseca Garcia | Javier |     |     |
 Jia | Zhen |     |     |
 Kim | Matthew |   kim.matth  | [mattakimv](https://github.com/mattakimv)  | ![mattakimv](https://github.com/mattakimv.png?size=40)
-Li | Yuan |     |     |
+Li | Yuan |  li.yuan5  |   [liyuan1993](https://github.com/liyuan1993/) | ![liyuan1993](https://avatars0.githubusercontent.com/u/43114076?s=40&v=4)
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
 Lu | Zhicheng |     |     |
