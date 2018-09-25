@@ -8,7 +8,7 @@ Finkelstein | Joshua |     |     |
 Fonseca Garcia | Javier |     |     |
 Jia | Zhen |     |     |
 Kim | Matthew |     |     |
-Li | Yuan |  li.yuan5@husky.neu.edu   |   [liyuan1993](https://github.com/liyuan1993/) | ![liyuan1993] https://github.com/liyuan1993.png
+Li | Yuan |  li.yuan5@husky.neu.edu   |   [liyuan1993](https://github.com/liyuan1993/) | ![liyuan1993] (https://github.com/liyuan1993.png?size=40)
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
 Lu | Zhicheng |     |     |
