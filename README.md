@@ -4,7 +4,7 @@ People who have completed this assignment, in alphabetical order of last name:
 
 Last Name | First Name | husky id | github id      | avatar
 ---------|------------|-----------|-----------|---------
-Finkelstein | Joshua | sss   |     |
+Finkelstein | Joshua |   |     |
 Fonseca Garcia | Javier |     |     |
 Jia | Zhen |     |     |
 Kim | Matthew |   kim.matth  | [mattakimv](https://github.com/mattakimv)  | ![mattakimv](https://github.com/mattakimv.png?size=40)
@@ -22,4 +22,3 @@ West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)      
 Xu | Jiaming |     |     |
 Zakrzewski | Samuel |     |     |
 Zhu | Shu |     |     |
-
