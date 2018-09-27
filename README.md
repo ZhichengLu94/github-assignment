@@ -19,7 +19,7 @@ Singh | Bhavya |     |     |
 Vozikis | Rachel |  vozikis.r  |  [rvozikis](https://github.com/rvozikis)   |![rvozikis](https://github.com/rvozikis.png?size=40)
 Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
-Xu | Jiaming |     |     |
+Xu | Jiaming |  xu.jiam   |   [JP-Xu](https://github.com/JP-Xu)   | ![JP-Xu](https://github.com/JP-Xu.png?size=40)
 Zakrzewski | Samuel |     |     |
 Zhu | Shu |     |     |
 
