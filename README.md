@@ -11,7 +11,7 @@ Kim | Matthew |   kim.matth  | [mattakimv](https://github.com/mattakimv)  | ![ma
 Li | Yuan |  li.yuan5  |   [liyuan1993](https://github.com/liyuan1993/) | ![liyuan1993](https://avatars0.githubusercontent.com/u/43114076?s=40&v=4)
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
-Lu | Zhicheng |     |     |
+Lu | Zhicheng | lu.zhi  | [ZhichengLu94](https://github.com/ZhichengLu94) |![ZhichengLu94](https://github.com/ZhichengLu94.png?size=40)
 Mendoza Semidey | Eduardo |     |     |
 Pearlman | Brendon |     |     |
 Rosenberg | David |     |     |
