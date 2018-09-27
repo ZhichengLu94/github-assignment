@@ -12,7 +12,7 @@ Li | Yuan |  li.yuan5  |   [liyuan1993](https://github.com/liyuan1993/) | ![liyu
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
 Lu | Zhicheng |     |     |
-Mendoza Semidey | Eduardo |     |     |
+Mendoza Semidey | Eduardo |mendoza.ed|[emendoza13](https://github.com/emendoza13)| ![emendoza13](https://github.com/emendoza13.png?size=40)
 Pearlman | Brendon |     |     |
 Rosenberg | David |     |     |
 Singh | Bhavya |     |     |
