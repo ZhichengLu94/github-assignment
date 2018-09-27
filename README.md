@@ -12,14 +12,14 @@ Li | Yuan |  li.yuan5  |   [liyuan1993](https://github.com/liyuan1993/) | ![liyu
 Liao | Yoan-Ting |     |     |
 Liu | Yingge |     |     |
 Lu | Zhicheng | lu.zhi  | [ZhichengLu94](https://github.com/ZhichengLu94) |![ZhichengLu94](https://github.com/ZhichengLu94.png?size=40)
-Mendoza Semidey | Eduardo |     |     |
+Mendoza Semidey | Eduardo |mendoza.ed|[emendoza13](https://github.com/emendoza13)| ![emendoza13](https://github.com/emendoza13.png?size=40)
 Pearlman | Brendon |     |     |
 Rosenberg | David |     |     |
 Singh | Bhavya |     |     |
-Vozikis | Rachel |  vozikis.r   |  [rvozikis](https://github.com/rvozikis)   |![rvozikis](https://github.com/rvozikis.png?size=40)
+Vozikis | Rachel |  vozikis.r  |  [rvozikis](https://github.com/rvozikis)   |![rvozikis](https://github.com/rvozikis.png?size=40)
 Wai | Francesco |     |     |
 West     |   Richard   | r.west      |   [rwest](https://github.com/rwest)        | ![rwest](https://github.com/rwest.png?size=40)
-Xu | Jiaming |     |     |
+Xu | Jiaming |  xu.jiam   |   [JP-Xu](https://github.com/JP-Xu)   | ![JP-Xu](https://github.com/JP-Xu.png?size=40)
 Zakrzewski | Samuel |     |     |
 Zhu | Shu |     |     |
 
